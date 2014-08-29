@@ -1,0 +1,5 @@
+## Interface: 50400
+## Title: Settings
+## Description: Allows configuration of the game client and interface.
+## Author: Predicate
+## OptionalDeps: BlankSlate
